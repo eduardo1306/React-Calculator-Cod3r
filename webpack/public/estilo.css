@@ -1,0 +1,13 @@
+body {
+  background-color: tomato;
+  background-image: url(d027b30f5b7ab2af07c4fc490a0701f6.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh; }
+
+.botao {
+  background-color: #19B3E6;
+  color: #FFF;
+  font-size: 1.8em; 
+}
+
